@@ -354,6 +354,276 @@
     }
   },
 
+  "CCFT_reduced_dataset_lh_v0_action_verb": {
+    "file_name": "CCFT_reduced_dataset_lh_v0_action_verb.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_lh_v0_objects": {
+    "file_name": "CCFT_reduced_dataset_lh_v0_objects.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_lh_v0_tool": {
+    "file_name": "CCFT_reduced_dataset_lh_v0_tool.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_lh_v1_action_verb": {
+    "file_name": "CCFT_reduced_dataset_lh_v1_action_verb.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_lh_v1_objects": {
+    "file_name": "CCFT_reduced_dataset_lh_v1_objects.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_lh_v1_tool": {
+    "file_name": "CCFT_reduced_dataset_lh_v1_tool.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_lh_v2_action_verb": {
+    "file_name": "CCFT_reduced_dataset_lh_v2_action_verb.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_lh_v2_objects": {
+    "file_name": "CCFT_reduced_dataset_lh_v2_objects.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_lh_v2_tool": {
+    "file_name": "CCFT_reduced_dataset_lh_v2_tool.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_rh_v0_action_verb": {
+    "file_name": "CCFT_reduced_dataset_rh_v0_action_verb.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_rh_v0_objects": {
+    "file_name": "CCFT_reduced_dataset_rh_v0_objects.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_rh_v0_tool": {
+    "file_name": "CCFT_reduced_dataset_rh_v0_tool.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_rh_v1_action_verb": {
+    "file_name": "CCFT_reduced_dataset_rh_v1_action_verb.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_rh_v1_objects": {
+    "file_name": "CCFT_reduced_dataset_rh_v1_objects.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_rh_v1_tool": {
+    "file_name": "CCFT_reduced_dataset_rh_v1_tool.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_rh_v2_action_verb": {
+    "file_name": "CCFT_reduced_dataset_rh_v2_action_verb.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_rh_v2_objects": {
+    "file_name": "CCFT_reduced_dataset_rh_v2_objects.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
+  "CCFT_reduced_dataset_rh_v2_tool": {
+    "file_name": "CCFT_reduced_dataset_rh_v2_tool.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "videos": "videos"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant"
+    }
+  },
+
   "CCFT_havid_sub_videos_crop_balanced_lh_v0_action_verb": {
     "file_name": "CCFT_havid_sub_videos_crop_balanced_lh_v0_action_verb.json",
     "formatting": "sharegpt",
@@ -398,6 +668,7 @@
       "assistant_tag": "assistant"
     }
   },
+  
   "CCFT_havid_sub_videos_crop_balanced_lh_v1_action_verb": {
     "file_name": "CCFT_havid_sub_videos_crop_balanced_lh_v1_action_verb.json",
     "formatting": "sharegpt",
