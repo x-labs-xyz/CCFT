@@ -1,0 +1,5 @@
+conda activate videomae
+
+bash script/finetune/train2.sh  
+
+bash script/finetune/test.sh --eval
