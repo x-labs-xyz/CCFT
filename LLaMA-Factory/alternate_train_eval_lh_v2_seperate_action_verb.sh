@@ -89,7 +89,7 @@ lora_rank: 256
 lora_alpha: 256 
 
 ### dataset
-dataset: CCFT_havid_sub_videos_crop_balanced_lh_v1_action_verb 
+dataset: CCFT_havid_sub_videos_crop_balanced_lh_v2_action_verb 
 template: qwen2_vl 
 cutoff_len: 10240 
 max_samples: 100000 
@@ -105,7 +105,7 @@ video_fps: 2
 video_maxlen: 128
 
 ### output
-output_dir: saves/action_verb_lh_v1_1
+output_dir: saves/action_verb_lh_v2_1
 logging_steps: 1 
 #save_steps: 50 
 plot_loss: true 
@@ -134,12 +134,12 @@ rm temp_action_verb_config.yaml
 Merge_action_verb_CONTENT="
 ### model
 model_name_or_path: /home/hao/CCFT/Qwen2.5-VL/Qwen2.5-VL-7B-Instruct
-adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_lh_v1_1
+adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_lh_v2_1
 template: qwen2_vl
 finetuning_type: lora
 
 ### export
-export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_lh_v1_1
+export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_lh_v2_1
 export_size: 5
 export_device: cpu
 export_legacy_format: false
@@ -152,9 +152,10 @@ llamafactory-cli export temp_merge_action_verb_config.yaml  # Replace with your 
 # Clean up
 rm temp_merge_action_verb_config.yaml
 
+
 conda deactivate
 conda activate Qwen25VL
-python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_lh_v1.py --task action_verb_lh_v1 --epoch "1"
+python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_lh_v2.py --task action_verb_lh_v2 --epoch "1"
 conda deactivate
 
 
@@ -165,7 +166,7 @@ for epoch in $(seq 2 40); do
   # Create temporary config file
   Action_verb_CONTENT="
 ### model
-model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_lh_v1_${prev_epoch}
+model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_lh_v2_${prev_epoch}
 
 ### method
 stage: sft 
@@ -248,7 +249,7 @@ lora_rank: 256
 lora_alpha: 256 
 
 ### dataset
-dataset: CCFT_havid_sub_videos_crop_balanced_lh_v1_action_verb 
+dataset: CCFT_havid_sub_videos_crop_balanced_lh_v2_action_verb 
 template: qwen2_vl 
 cutoff_len: 10240 
 max_samples: 100000 
@@ -264,7 +265,7 @@ video_fps: 2
 video_maxlen: 128
 
 ### output
-output_dir: saves/action_verb_lh_v1_${epoch}
+output_dir: saves/action_verb_lh_v2_${epoch}
 logging_steps: 1 
 # save_steps: 50 
 plot_loss: true 
@@ -294,13 +295,13 @@ ddp_timeout: 180000000
 
   Merge_action_verb_CONTENT="
 ### model
-model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_lh_v1_${prev_epoch}
-adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_lh_v1_${epoch}
+model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_lh_v2_${prev_epoch}
+adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_lh_v2_${epoch}
 template: qwen2_vl
 finetuning_type: lora
 
 ### export
-export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_lh_v1_${epoch}
+export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_lh_v2_${epoch}
 export_size: 5
 export_device: cpu
 export_legacy_format: false
@@ -319,7 +320,7 @@ export_legacy_format: false
   conda deactivate
 
   conda activate Qwen25VL
-  python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_lh_v1.py --task action_verb_lh_v1 --epoch ${epoch}
+  python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_lh_v2.py --task action_verb_lh_v2 --epoch ${epoch}
   conda deactivate
 
 done
