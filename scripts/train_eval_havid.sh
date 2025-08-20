@@ -1,11 +1,13 @@
 #!/usr/bin/env bash
 eval "$(conda shell.bash hook)"
 
+task="$2"
+
 conda activate llama-qw
 
   Action_verb_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/Qwen2.5-VL/Qwen2.5-VL-7B-Instruct 
+  model_name_or_path: ./Qwen2.5-VL/Qwen2.5-VL-7B-Instruct 
 
   ### method
   stage: sft 
@@ -88,7 +90,8 @@ conda activate llama-qw
   lora_alpha: 256 
 
   ### dataset
-  dataset: CCFT_havid_sub_videos_crop_balanced_rh_v2_action_verb 
+  dataset_dir: ./LLaMA-Factory/data
+  dataset: HA-ViD-VQA_${task}_action_verb 
   template: qwen2_vl 
   cutoff_len: 10240 
   max_samples: 100000   
@@ -104,7 +107,7 @@ conda activate llama-qw
   video_maxlen: 128
 
   ### output
-  output_dir: saves/action_verb_rh_v2_1
+  output_dir: saves/action_verb_${task}_1
   logging_steps: 1 
   #save_steps: 50 
   plot_loss: true 
@@ -114,7 +117,7 @@ conda activate llama-qw
   ### train
   per_device_train_batch_size: 1 
   gradient_accumulation_steps: 2 
-  learning_rate: 1.0e-4 
+  learning_rate: 5.0e-5 
   num_train_epochs: 1 
   lr_scheduler_type: cosine 
   warmup_ratio: 0.1 
@@ -132,13 +135,13 @@ conda activate llama-qw
 
   Merge_action_verb_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/Qwen2.5-VL/Qwen2.5-VL-7B-Instruct
-  adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_rh_v2_1  
+  model_name_or_path: ./Qwen2.5-VL/Qwen2.5-VL-7B-Instruct
+  adapter_name_or_path: ./LLaMA-Factory/saves/action_verb_${task}_1  
   template: qwen2_vl
   finetuning_type: lora
 
   ### export
-  export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_rh_v2_1
+  export_dir: ./LLaMA-Factory/models/action_verb_${task}_1
   export_size: 5
   export_device: cpu
   export_legacy_format: false
@@ -153,7 +156,7 @@ conda activate llama-qw
 
   Objects_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_rh_v2_1
+  model_name_or_path: ./LLaMA-Factory/models/action_verb_${task}_1
 
   ### method
   stage: sft 
@@ -265,7 +268,8 @@ conda activate llama-qw
 
 
   ### dataset
-  dataset: CCFT_havid_sub_videos_crop_balanced_rh_v2_objects 
+  dataset_dir: ./LLaMA-Factory/data
+  dataset: HA-ViD-VQA_${task}_objects 
   template: qwen2_vl 
   cutoff_len: 10240 
   max_samples: 100000 
@@ -281,7 +285,7 @@ conda activate llama-qw
   video_maxlen: 128
 
   ### output
-  output_dir: saves/action_verb_objects_rh_v2_1
+  output_dir: saves/action_verb_objects_${task}_1
   logging_steps: 1 
   # save_steps: 50 
   plot_loss: true 
@@ -291,7 +295,7 @@ conda activate llama-qw
   ### train
   per_device_train_batch_size: 1 
   gradient_accumulation_steps: 2 
-  learning_rate: 1.0e-4 
+  learning_rate: 5.0e-5 
   num_train_epochs: 1 
   lr_scheduler_type: cosine 
   warmup_ratio: 0.1 
@@ -308,13 +312,13 @@ conda activate llama-qw
 
   Merge_objects_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_rh_v2_1
-  adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_objects_rh_v2_1
+  model_name_or_path: ./LLaMA-Factory/models/action_verb_${task}_1
+  adapter_name_or_path: ./LLaMA-Factory/saves/action_verb_objects_${task}_1
   template: qwen2_vl
   finetuning_type: lora
 
   ### export
-  export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_rh_v2_1
+  export_dir: ./LLaMA-Factory/models/action_verb_objects_${task}_1
   export_size: 5
   export_device: cpu
   export_legacy_format: false
@@ -329,7 +333,7 @@ conda activate llama-qw
 
   Tool_CONTENT="  
   ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_rh_v2_1
+  model_name_or_path: ./LLaMA-Factory/models/action_verb_objects_${task}_1
 
   ### method
   stage: sft  
@@ -370,7 +374,8 @@ conda activate llama-qw
   lora_alpha: 256 
 
   ### dataset
-  dataset: CCFT_havid_sub_videos_crop_balanced_rh_v2_tool 
+  dataset_dir: ./LLaMA-Factory/data
+  dataset: HA-ViD-VQA_${task}_tool 
   template: qwen2_vl 
   cutoff_len: 10240 
   max_samples: 100000 
@@ -386,7 +391,7 @@ conda activate llama-qw
   video_maxlen: 128
 
   ### output  
-  output_dir: saves/action_verb_objects_tool_rh_v2_1
+  output_dir: saves/action_verb_objects_tool_${task}_1
   logging_steps: 1 
   # save_steps: 50 
   plot_loss: true 
@@ -396,7 +401,7 @@ conda activate llama-qw
   ### train
   per_device_train_batch_size: 1 
   gradient_accumulation_steps: 2 
-  learning_rate: 1.0e-4   
+  learning_rate: 2.0e-5   
   num_train_epochs: 1 
   lr_scheduler_type: cosine 
   warmup_ratio: 0.1 
@@ -413,13 +418,13 @@ conda activate llama-qw
 
   Merge_tool_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_rh_v2_1
-  adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_objects_tool_rh_v2_1
+  model_name_or_path: ./LLaMA-Factory/models/action_verb_objects_${task}_1
+  adapter_name_or_path: ./LLaMA-Factory/saves/action_verb_objects_tool_${task}_1
   template: qwen2_vl
   finetuning_type: lora
 
   ### export
-  export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_tool_rh_v2_1
+  export_dir: ./LLaMA-Factory/models/action_verb_objects_tool_${task}_1
   export_size: 5
   export_device: cpu
   export_legacy_format: false
@@ -434,9 +439,9 @@ conda activate llama-qw
 
   conda deactivate
   conda activate Qwen25VL
-  python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_rh_v2.py --task action_verb_objects_tool_rh_v2 --epoch "1"
-  python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_rh_v2.py --task action_verb_objects_rh_v2 --epoch "1"
-  python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_rh_v2.py --task action_verb_rh_v2 --epoch "1"
+  python ./Qwen2.5-VL/eval_havid_${task}.py --task action_verb_objects_tool_${task} --epoch "1"
+  python ./Qwen2.5-VL/eval_havid_${task}.py --task action_verb_objects_${task} --epoch "1"
+  python ./Qwen2.5-VL/eval_havid_${task}.py --task action_verb_${task} --epoch "1"
   conda deactivate
 
 for epoch in $(seq 2 40); do
@@ -446,7 +451,7 @@ for epoch in $(seq 2 40); do
   # Create temporary config file
   Action_verb_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_tool_rh_v2_${prev_epoch}
+  model_name_or_path: ./LLaMA-Factory/models/action_verb_objects_tool_${task}_${prev_epoch}
 
   ### method
   stage: sft 
@@ -529,7 +534,8 @@ for epoch in $(seq 2 40); do
   lora_alpha: 256 
 
   ### dataset
-  dataset: CCFT_havid_sub_videos_crop_balanced_rh_v2_action_verb 
+  dataset_dir: ./LLaMA-Factory/data
+  dataset: HA-ViD-VQA_${task}_action_verb 
   template: qwen2_vl 
   cutoff_len: 10240 
   max_samples: 100000 
@@ -545,7 +551,7 @@ for epoch in $(seq 2 40); do
   video_maxlen: 128
 
   ### output
-  output_dir: saves/action_verb_rh_v2_${epoch}
+  output_dir: saves/action_verb_${task}_${epoch}
   logging_steps: 1  
   # save_steps: 50 
   plot_loss: true 
@@ -555,7 +561,7 @@ for epoch in $(seq 2 40); do
   ### train
   per_device_train_batch_size: 1 
   gradient_accumulation_steps: 2 
-  learning_rate: 1.0e-4 
+  learning_rate: 5.0e-5 
   num_train_epochs: 1
   lr_scheduler_type: cosine 
   warmup_ratio: 0.1 
@@ -575,13 +581,13 @@ for epoch in $(seq 2 40); do
 
   Merge_action_verb_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_tool_rh_v2_${prev_epoch}
-  adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_rh_v2_${epoch}
+  model_name_or_path: ./LLaMA-Factory/models/action_verb_objects_tool_${task}_${prev_epoch}
+  adapter_name_or_path: ./LLaMA-Factory/saves/action_verb_${task}_${epoch}
   template: qwen2_vl
   finetuning_type: lora
 
   ### export
-  export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_rh_v2_${epoch}
+  export_dir: ./LLaMA-Factory/models/action_verb_${task}_${epoch}
   export_size: 5
   export_device: cpu
   export_legacy_format: false
@@ -599,7 +605,7 @@ for epoch in $(seq 2 40); do
 
   Objects_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_rh_v2_${epoch}
+  model_name_or_path: ./LLaMA-Factory/models/action_verb_${task}_${epoch}
 
   ### method
   stage: sft 
@@ -710,7 +716,8 @@ for epoch in $(seq 2 40); do
   lora_alpha: 256 
 
   ### dataset
-  dataset: CCFT_havid_sub_videos_crop_balanced_rh_v2_objects 
+  dataset_dir: ./LLaMA-Factory/data
+  dataset: HA-ViD-VQA_${task}_objects 
   template: qwen2_vl 
   cutoff_len: 10240 
   max_samples: 100000 
@@ -726,7 +733,7 @@ for epoch in $(seq 2 40); do
   video_maxlen: 128
 
   ### output
-  output_dir: saves/action_verb_objects_rh_v2_${epoch}
+  output_dir: saves/action_verb_objects_${task}_${epoch}
   logging_steps: 1 
   # save_steps: 50 
   plot_loss: true 
@@ -736,7 +743,7 @@ for epoch in $(seq 2 40); do
   ### train
   per_device_train_batch_size: 1 
   gradient_accumulation_steps: 2 
-  learning_rate: 1.0e-4 
+  learning_rate: 5.0e-5 
   num_train_epochs: 1 
   lr_scheduler_type: cosine 
   warmup_ratio: 0.1 
@@ -755,13 +762,13 @@ for epoch in $(seq 2 40); do
 
   Merge_objects_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_rh_v2_${epoch}
-  adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_objects_rh_v2_${epoch}
+  model_name_or_path: ./LLaMA-Factory/models/action_verb_${task}_${epoch}
+  adapter_name_or_path: ./LLaMA-Factory/saves/action_verb_objects_${task}_${epoch}
   template: qwen2_vl
   finetuning_type: lora
 
   ### export
-  export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_rh_v2_${epoch}
+  export_dir: ./LLaMA-Factory/models/action_verb_objects_${task}_${epoch}
   export_size: 5
   export_device: cpu
   export_legacy_format: false
@@ -779,7 +786,7 @@ for epoch in $(seq 2 40); do
 
   Tool_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_rh_v2_${epoch}
+  model_name_or_path: ./LLaMA-Factory/models/action_verb_objects_${task}_${epoch}
 
   ### method
   stage: sft 
@@ -820,7 +827,8 @@ for epoch in $(seq 2 40); do
   lora_alpha: 256 
 
   ### dataset
-  dataset: CCFT_havid_sub_videos_crop_balanced_rh_v2_tool 
+  dataset_dir: ./LLaMA-Factory/data
+  dataset: HA-ViD-VQA_${task}_tool 
   template: qwen2_vl 
   cutoff_len: 10240 
   max_samples: 100000 
@@ -836,7 +844,7 @@ for epoch in $(seq 2 40); do
   video_maxlen: 128
 
   ### output
-  output_dir: saves/action_verb_objects_tool_rh_v2_${epoch}
+  output_dir: saves/action_verb_objects_tool_${task}_${epoch}
   logging_steps: 1 
   # save_steps: 50 
   plot_loss: true 
@@ -846,7 +854,7 @@ for epoch in $(seq 2 40); do
   ### train
   per_device_train_batch_size: 1 
   gradient_accumulation_steps: 2 
-  learning_rate: 1.0e-4 
+  learning_rate: 2.0e-5 
   num_train_epochs: 1
   lr_scheduler_type: cosine
   warmup_ratio: 0.1 
@@ -865,13 +873,13 @@ for epoch in $(seq 2 40); do
 
   Merge_tool_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_rh_v2_${epoch}
-  adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_objects_tool_rh_v2_${epoch}
+  model_name_or_path: ./LLaMA-Factory/models/action_verb_objects_${task}_${epoch}
+  adapter_name_or_path: ./LLaMA-Factory/saves/action_verb_objects_tool_${task}_${epoch}
   template: qwen2_vl
   finetuning_type: lora
 
   ### export
-  export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_tool_rh_v2_${epoch}
+  export_dir: ./LLaMA-Factory/models/action_verb_objects_tool_${task}_${epoch}
   export_size: 5
   export_device: cpu
   export_legacy_format: false
@@ -890,9 +898,9 @@ for epoch in $(seq 2 40); do
   conda deactivate
 
   conda activate Qwen25VL
-  python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_rh_v2.py --task action_verb_objects_tool_rh_v2 --epoch ${epoch}
-  python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_rh_v2.py --task action_verb_objects_rh_v2 --epoch ${epoch}
-  python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_rh_v2.py --task action_verb_rh_v2 --epoch ${epoch}
+  python ./Qwen2.5-VL/eval_havid_${task}.py --task action_verb_objects_tool_${task} --epoch ${epoch}
+  python ./Qwen2.5-VL/eval_havid_${task}.py --task action_verb_objects_${task} --epoch ${epoch}
+  python ./Qwen2.5-VL/eval_havid_${task}.py --task action_verb_${task} --epoch ${epoch}
   conda deactivate
 
 done

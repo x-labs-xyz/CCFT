@@ -1,0 +1,6782 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A28I31M0_sspg3dp_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A29I31M0_ibscb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A12I25M0_sspn4dp_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A22I26M0_sftg2ws_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A22I26M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_sshc2dh_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_ipsft_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A06I01M0_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_iusn6_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A05I01M0_sntft_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_sshc3_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_scccb_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A12I25M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A06I01M0_iibn2_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_sspg3dp_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A06I01M0_sspn4dp_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_sshc4_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_sshc2dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_sftg1ws_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_sshc1dh_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A12I24M0_rhw_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A22I26M0_ispgw_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A06I01M0_llb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A12I24M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A05I01M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_null_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A06I01M0_sspn4_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A12I21M0_sspn4dp_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_sshc1dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A12I24M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_iplft_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A05I01M0_pgwbx_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A28I31M0_iplft_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_sftg2ws_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A04I01M0_iplft_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_sshc4dh_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_scccb_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_sshc4dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_iglft_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A29I31M0_sshc2_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A05I01M0_sntft_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_pgwbx_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A12I25M0_rhw_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A22I26M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_sftg1_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_iglft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_pgwbx_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A12I25M0_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A06I01M0_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A34I31M0_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_sntftwn_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_pckbx_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A28I31M0_sftg1_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_sftg2ws_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A12I25M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_null_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_lck_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_sshc2_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A06I01M0_sntsbwn_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_sntft_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_ibacb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_sshc1dp_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A06I01M0_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_sshc3dh_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A06I01M0_rhd_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_null_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_sshc4dh_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A12I24M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_ipsft_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_ibacb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_pckbx_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A12I21M0_iusn6_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A05I01M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A06I01M0_sntsb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A06I01M0_null_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_ickcb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A12I25M0_sntsb_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A12I24M0_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A06I01M0_sntn5_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_null_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_sshc3_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A06I01M0_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A04I01M0_sftg1_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A06I01M0_llb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A12I25M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_iirn1_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A05I01M0_ipsft_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A04I01M0_sspg3dp_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A28I31M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A06I01M0_sntn5wn_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_null_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A22I26M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_sftg1_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A30I31M0_iusn6_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_igsft_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A34I31M0_isbn3_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_sshc1_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_scccb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_pckbx_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A12I24M0_sntn5wn_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A28I31M0_ipsft_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_igsft_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_ickcb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A05I01M0_igsft_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_sftg1_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_sntftwn_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_null_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_iplft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A12I24M0_llb_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_ickcb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A06I01M0_iirn1_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A24I26M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_ishck_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A34I31M0_rhd_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_ipsft_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_sshc1_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_pckbx_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A22I26M0_sftg1ws_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A06I01M0_isbn3_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A24I26M0_sntn5wn_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A06I01M0_isbn3_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_sshc2_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A12I21M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A06I01M0_iusn6_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A12I24M0_rhq_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A06I01M0_sntsb_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_ibscb_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_sshc2dh_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_ibscb_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_ibacb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A12I21M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A29I31M0_sshc4_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A12I24M0_sntsb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_ickcb_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A29I31M0_sshc1dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A04I01M0_sntft_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_pgwbx_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_iglft_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A30I31M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_pckbx_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A12I21M0_rhw_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_ibscb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_ishc4_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_scccb_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A29I31M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A24I26M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_ickcb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_sntftwn_22.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A30I31M0_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_sshc2dh_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_ickcb_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A30I31M0_rhd_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A06I01M0_rhd_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A04I01M0_sftg2_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_sshc3_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_sshc3dh_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_rhw_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_iglft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_lck_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_sftg1ws_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_null_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A06I01M0_iusn6_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_sspn4dp_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_sftg2_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A24I26M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_sntft_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_null_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A04I01M0_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_sspg3dp_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_scccb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_scccb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_null_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_sftg1ws_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A12I21M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_sshc4dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A24I26M0_sntsbwn_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_iplft_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_sntftwn_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A16I23M0_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A12I21M0_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A04I01M0_ipsft_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A30I31M0_llb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A06I01M0_iusn6_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A12I21M0_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_pckbx_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A04I01M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A06I01M0_sntsbwn_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_scccb_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_iplft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_sntftwn_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_iibn2_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A24I26M0_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_sftg2_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_pgwbx_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_sshc3dh_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_sshc4dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_sshc2dh_21.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_ickcb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_sspg3dp_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A05I01M0_sspg3dp_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_sshc4_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_igsft_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A29I31M0_scccb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_ishc2_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_sshc3dh_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A12I21M0_rhd_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A06I01M0_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A16I23M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A16I23M0_sntftwn_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A06I01M0_sspn4dp_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A05I01M0_iplft_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_ipsft_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A12I24M0_null_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A06I01M0_sspn4dp_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_null_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_iplft_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A28I31M0_iglft_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A12I21M0_sntsb_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_null_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A12I24M0_sspn4dp_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A06I01M0_rhw_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_scccb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A22I26M0_sntftwn_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A04I01M0_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A30I31M0_sntn5_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_sshc3dh_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_sshc4_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A34I31M0_sspn4dp_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_sntn5wn_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_null_21.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A16I23M0_sftg1ws_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_ickcb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_sntftwn_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A28I31M0_sntft_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_sshc2dp_21.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A06I01M0_iusn6_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A29I31M0_ibacb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A30I31M0_rhw_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_sshc2dh_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_ibacb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A06I01M0_sspn4_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_iplft_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_ishc3_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_ishck_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_null_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_null_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A06I01M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_null_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A16I23M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_ibscb_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_ishc1_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A06I01M0_sntn5_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A16I23M0_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A06I01M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A12I21M0_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A22I26M0_rgw_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_sshc3dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_sshc2dh_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A30I31M0_sntsb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A34I31M0_sntn5wn_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A29I31M0_sshc4dh_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_sshc3dh_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A22I26M0_sntftwn_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_sshc3dp_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A12I25M0_iusn6_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_iglft_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_sspg3dp_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A30I31M0_iibn2_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_sshc2_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_sshc1dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_sftg2ws_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_pckbx_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A05I01M0_rgw_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_null_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_sshc2dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_rgw_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A06I01M0_iirn1_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_null_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A22I26M0_pgwbx_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_null_22.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_sntsbwn_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A04I01M0_sntft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_ibacb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A04I01M0_pgwbx_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_sshc1dh_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_sftg1_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A06I01M0_sntn5wn_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A04I01M0_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A04I01M0_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A34I31M0_rhw_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A06I01M0_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_null_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A05I01M0_sftg1_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_ibscb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A16I23M0_sntftwn_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A16I23M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A16I23M0_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A06I01M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A24I26M0_sspn4dp_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_null_23.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_sshc1dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_iccck_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A34I31M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_sshc4dh_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_sshc3_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_sshc4dp_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A05I01M0_ipsft_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_sspg3dp_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A12I25M0_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_sshc1_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A12I25M0_rhd_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A12I25M0_sntn5wn_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A06I01M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_sshc2_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_sntftwn_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_pcbbx_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A12I24M0_rhd_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_null_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_sftg2_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_ickcb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A06I01M0_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_pckbx_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_null_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_ickcb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_igsft_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_null_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_sspg3dp_24.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A12I24M0_iusn6_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_sftg1ws_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_ibacb_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_lck_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_sshc4dh_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_null_25.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_ibacb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A06I01M0_iibn2_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A12I24M0_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_ipsft_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_scccb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A34I31M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A04I01M0_igsft_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A12I21M0_sntn5wn_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_iplft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_sshc1dh_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A22I26M0_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A04I01M0_sntftwn_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A29I31M0_ickcb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A05I01M0_sshc3dh_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A16I23M0_sspg3dp_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_sntftwn_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A05I01M0_sftg2_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_sshc4_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A29I31M0_sshc3dh_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A06I01M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_igsft_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A10I24M0_sftg2_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A05I01M0_iglft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A06I01M0_sntsb_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_iglft_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A06I01M0_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A04I01M0_iccck_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A29I31M0_sshc1_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A12I22M0_rhd_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A22I26M0_sspg3dp_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A22I26M0_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A06I01M0_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A23I26M0_scccb_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A34I31M0_null_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A06I01M0_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A29I31M0_sshc2dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S21A10I21M0_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is place.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S28A10I25M0_pgwbx_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A06I01M0_rhw_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S13A06I01M0_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A11I24M0_sshc1dh_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A17I23M0_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A29I31M0_ickcb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A11I22M0_sshc1dh_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A22I26M0_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S25A16I23M0_sftg2ws_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_ickcb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S23A05I01M0_null_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A05I01M0_ipsft_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb of the assembly action that the worker's right hand performed in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v0/train/S16A10I22M0_sftg2_7.mp4"
+    ]
+  }
+]

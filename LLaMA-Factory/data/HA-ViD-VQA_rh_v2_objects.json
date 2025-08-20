@@ -1,0 +1,6782 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_ickcb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A22I26S2_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A29I31S2_ickcb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A06I01S2_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_sntft_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the small gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_sftg2_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A29I31S2_sshc2dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_ipsft_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_null_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A22I26S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A06I01S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A34I31S2_null_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_sshc1dh_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_sshc1dh_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is worm gear. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_pgwbx_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand wheel. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A06I01S2_rhw_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A06I01S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A06I01S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is worm gear. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_pgwbx_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand wheel. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A30I31S2_rhw_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the small gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A05I01S2_sftg2_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_sshc1dh_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is stud on the assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A12I24S2_sntn5wn_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand dial. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_rhd_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_sntftwn_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_sshc4_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_sshc3dh_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder cap. The target object is cylinder bracket.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_iccck_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A05I01S2_iglft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the small gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_sftg2_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A06I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_sntftwn_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A04I01S2_igsft_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder cap. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_scccb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A34I31S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A29I31S2_sshc3dh_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bar. The target object is hole for the bar.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A06I01S2_iibn2_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A12I24S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is ball. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_ibacb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_null_25.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder cap. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_scccb_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bar. The target object is hole for the bar.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_iibn2_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A29I31S2_ickcb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A22I26S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the large gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A22I26S2_sftg1ws_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_iplft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is stud on the assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A24I26S2_sntn5wn_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_pckbx_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_sshc1_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is ball. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_ibacb_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_null_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is usb male. The target object is usb female.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A12I24S2_iusn6_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_ipsft_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is screw bolt.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A06I01S2_sntsb_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_sntftwn_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_sshc2_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the worm gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_sspg3dp_24.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_igsft_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A06I01S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_ickcb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_igsft_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_null_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_sshc4dh_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the large gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_sftg1_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_pckbx_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A06I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the Phillips screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_sspn4dp_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_sshc1dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_sshc1_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A12I25S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the small gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_sftg2_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_sshc3_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_ickcb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand dial. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A12I24S2_rhd_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_null_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_sshc4dh_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder base. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_pcbbx_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_sshc4dp_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the large gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_sftg1ws_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_ickcb_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the large gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_sftg1ws_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder cap. The target object is cylinder bracket.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_iccck_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A34I31S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand wheel. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A34I31S2_rhw_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A29I31S2_sshc4_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is screw bolt.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A24I26S2_sntsbwn_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_null_23.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_sntftwn_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder cap. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_scccb_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_iglft_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_sshc2dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the small gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_sftg2ws_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_sshc2_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A04I01S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the Phillips screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A12I21S2_sspn4dp_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A16I23S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_pckbx_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_ipsft_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A06I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A16I23S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_ibscb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the large gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A05I01S2_sftg1_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_sshc1dh_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A06I01S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_null_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_null_22.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is worm gear. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_rgw_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is worm gear. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A22I26S2_pgwbx_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is rod. The target object is hole for the rod.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A06I01S2_iirn1_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_null_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is worm gear. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_pgwbx_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the large gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_sftg1_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand dial. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A12I25S2_rhd_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_pckbx_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A04I01S2_sntft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is ball. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_ibacb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is rod. The target object is hole for the rod.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_iirn1_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_sshc1_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_sshc3dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is worm gear. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A05I01S2_rgw_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_null_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_sshc2dh_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the worm gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A28I31S2_sspg3dp_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_pckbx_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_igsft_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the Phillips screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A12I25S2_sspn4dp_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the small gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A22I26S2_sftg2ws_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bar. The target object is hole for the bar.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A30I31S2_iibn2_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A29I31S2_sshc4dh_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is stud on the assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A06I01S2_sntn5_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A06I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_sshc3dh_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A12I21S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_lck_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is worm gear. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A22I26S2_rgw_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_sshc3dp_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_ibscb_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A16I23S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the Phillips screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A06I01S2_sspn4dp_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the large gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_sftg1ws_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_sshc1dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is screw bolt.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A30I31S2_sntsb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_null_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_sshc4_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is ball. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_ibacb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_iplft_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_sntftwn_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A16I23S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_sshc2dp_21.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_sshc2dh_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_null_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A06I01S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_null_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is stud on the assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A06I01S2_sntn5wn_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_ipsft_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_ickcb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_null_21.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_sshc3_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A05I01S2_sntft_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is ball. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A29I31S2_ibacb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is usb male. The target object is usb female.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A06I01S2_iusn6_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A28I31S2_sntft_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is worm gear. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_pgwbx_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder cap. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_scccb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the small gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_sftg2ws_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the Phillips screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A06I01S2_sspn4dp_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A29I31S2_sshc2_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_null_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A05I01S2_sntft_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_iglft_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is stud on the assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A30I31S2_sntn5_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A04I01S2_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_null_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A12I24S2_null_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A05I01S2_iplft_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A16I23S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand wheel. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A06I01S2_rhw_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A22I26S2_sntftwn_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder cap. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_scccb_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is screw bolt.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A06I01S2_sntsbwn_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is screw bolt.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A12I21S2_sntsb_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A28I31S2_iglft_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is worm gear. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A05I01S2_pgwbx_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_iplft_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_ickcb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_igsft_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the small gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_sftg2_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_sshc4_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A24I26S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_sshc1_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_ishc2_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A06I01S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder cap. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A29I31S2_scccb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is screw bolt.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A06I01S2_sntsbwn_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_iglft_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is screw bolt.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A06I01S2_sntsb_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_igsft_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_sntftwn_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A12I21S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is linear bearing. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A06I01S2_llb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is usb male. The target object is usb female.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A06I01S2_iusn6_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A04I01S2_ipsft_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_ipsft_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_sshc3dh_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A16I23S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the worm gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_sspg3dp_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_sshc4dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_sshc2dh_21.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A04I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_iplft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the worm gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A05I01S2_sspg3dp_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the large gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_sftg1ws_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_pckbx_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A12I21S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_sshc3dh_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder cap. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_scccb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_null_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A04I01S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_iplft_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_null_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder cap. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_scccb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A12I21S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand wheel. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A12I25S2_rhw_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the worm gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_sspg3dp_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder cap. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_scccb_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_iglft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A24I26S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the worm gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_sspg3dp_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the small gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_sftg2_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is stud on the assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A12I25S2_sntn5wn_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is usb male. The target object is usb female.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A06I01S2_iusn6_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_sshc4dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_null_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_sshc2dh_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A30I31S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_ickcb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_sshc2_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A29I31S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A24I26S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A29I31S2_sshc1dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the worm gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A22I26S2_sspg3dp_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the small gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A04I01S2_sftg2_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_ickcb_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand dial. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A06I01S2_rhd_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A12I21S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is screw bolt.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A12I24S2_sntsb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is ball. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_ibacb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_ibscb_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_sntftwn_22.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_sshc2dh_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_ishc4_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A30I31S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand wheel. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A12I21S2_rhw_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A05I01S2_ipsft_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_ibscb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_sshc3_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is worm gear. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_pgwbx_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_pckbx_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A04I01S2_sntft_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the small gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A16I23S2_sftg2ws_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_sshc3dh_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is stud on the assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A12I21S2_sntn5wn_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is screw bolt. The target object is hole for the bolt.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A06I01S2_isbn3_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is screw bolt. The target object is hole for the bolt.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A06I01S2_isbn3_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the worm gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A16I23S2_sspg3dp_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is linear bearing. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A06I01S2_llb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_sntftwn_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_ibscb_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is quarter-turn handle. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A12I24S2_rhq_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is usb male. The target object is usb female.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A06I01S2_iusn6_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A12I21S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_ickcb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A28I31S2_ipsft_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_pckbx_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder cap. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_scccb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A24I26S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is cylinder bracket.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_ishck_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_ickcb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is rod. The target object is hole for the rod.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A06I01S2_iirn1_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_iplft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_null_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A05I01S2_igsft_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_iglft_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A05I01S2_ipsft_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is linear bearing. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A12I24S2_llb_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is usb male. The target object is usb female.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A12I25S2_iusn6_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A12I25S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is screw bolt. The target object is hole for the bolt.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A34I31S2_isbn3_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is stud on the assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_sntn5wn_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the Phillips screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A34I31S2_sspn4dp_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is usb male. The target object is usb female.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A30I31S2_iusn6_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the large gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_sftg1_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A28I31S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_null_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_sshc2_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A22I26S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the large gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A16I23S2_sftg1ws_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_null_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_ickcb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is screw bolt.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A12I25S2_sntsb_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is stud on the assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A06I01S2_sntn5_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A05I01S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_ishc1_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is usb male. The target object is usb female.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A12I21S2_iusn6_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A12I24S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the worm gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A04I01S2_sspg3dp_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is screw bolt.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A06I01S2_sntsb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A06I01S2_null_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand dial. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A34I31S2_rhd_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the large gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A04I01S2_sftg1_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_sshc3_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A06I01S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A06I01S2_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_sntft_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is ball. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A11I24S2_ibacb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_lck_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_sntftwn_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A12I24S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is ball. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_ibacb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A16I23S2_sntftwn_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_null_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the Phillips screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A06I01S2_sspn4dp_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A06I01S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A34I31S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand dial. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A30I31S2_rhd_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A12I25S2_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large gear. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A10I21S2_iglft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_sshc1dp_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_sshc3dh_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand dial. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A06I01S2_rhd_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_sshc3dh_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_null_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A12I25S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is worm gear. The target object is assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A04I01S2_pgwbx_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_sshc4dh_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the Phillips screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A12I24S2_sspn4dp_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the large gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A28I31S2_sftg1_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is screw bolt.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_sntsbwn_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_sshc1dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_sshc4_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand wheel. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_rhw_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the large gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_sftg1_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A11I22S2_sshc4dh_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C4.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_sshc4dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder bracket. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A29I31S2_lck_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A22I26S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is small placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_ipsft_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A16I23S2_sntftwn_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_iplft_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A12I24S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the Phillips screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A06I01S2_sspn4_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the Phillips screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A24I26S2_sspn4dp_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is stud on the assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A06I01S2_sntn5wn_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A04I01S2_iplft_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is large placer. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A28I31S2_iplft_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand wheel. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A12I24S2_rhw_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is stud on the assembly box.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A34I31S2_sntn5wn_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is cylinder bracket.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A23I26S2_ishck_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C3.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A04I01S2_ishc3_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_sshc2dh_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bar. The target object is hole for the bar.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A06I01S2_iibn2_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the Phillips screw.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A06I01S2_sspn4_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A12I24S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_null_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A05I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S23A05I01S2_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is linear bearing. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A30I31S2_llb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is worm gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A22I26S2_ispgw_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the worm gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A05I01S2_sspg3dp_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is Phillips screw. The target object is hole for the worm gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A10I22S2_sspg3dp_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A22I26S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A04I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C2.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A05I01S2_sshc2dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hex screw. The target object is screw hole C1.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A17I23S2_sshc1dh_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is hand dial. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S21A12I21S2_rhd_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is gear shaft. The target object is hole for the small gear.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A10I24S2_sftg2ws_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is bs. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A29I31S2_ibscb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A10I25S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is cylinder cap. The target object is cylinder base.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S13A04I01S2_scccb_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is nut. The target object is gear shaft.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A22I26S2_sntftwn_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S28A12I25S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is usb male. The target object is usb female.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S16A12I22S2_iusn6_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What are the objects being assembled during this assembly process?",
+        "role": "user"
+      },
+      {
+        "content": "The manipulated object is null. The target object is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/rh_v2/train/S25A06I01S2_null_8.mp4"
+    ]
+  }
+]

@@ -1,0 +1,7097 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0013_spin_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_pick-up_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_spin_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is tighten.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_tighten_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_NA_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_pick-up_side-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_pin_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_spin_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_other_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_flip_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_shelf_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_pick-up_bottom-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_NA_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_spin_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0013_other_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_shelf_009.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_pick-up_side-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0013_align_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_rotate_table_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_spin_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_pick-up_side-panel_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_NA_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_pick-up_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_spin_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_flip_table-top_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0013_spin_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is tighten.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_tighten_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_NA_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_NA_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_align_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_pin_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_pick-up_side-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_spin_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_spin_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_spin_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_pick-up_side-panel_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_attach_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_flip_table-top_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_rotate_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0013_align_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_pick-up_side-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_spin_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_pick-up_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_spin_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_NA_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_NA_009.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_spin_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_pick-up_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_align_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_pick-up_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_NA_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is position.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_position_drawer_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_spin_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_pick-up_back-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_spin_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0013_other_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_flip_table-top_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_NA_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_rotate_table_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_NA_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_spin_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_flip_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_bottom-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is tighten.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_tighten_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_pick-up_back-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_pick-up_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_pick-up_bottom-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_pick-up_side-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_pick-up_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_rotate_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_spin_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_rotate_table_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_align_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_pick-up_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is position.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_position_drawer_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_spin_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_spin_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_pick-up_back-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0013_other_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_NA_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is position.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_position_drawer_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_rotate_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_NA_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_spin_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_pick-up_side-panel_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_spin_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_spin_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_pin_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is tighten.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_tighten_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_flip_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_bottom-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_pick-up_back-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_align_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0013_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_flip_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_pick-up_side-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_rotate_table_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_NA_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_pick-up_table-top_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_insert_pin_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_align_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_flip_table-top_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_NA_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_NA_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_pick-up_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_attach_shelf_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_pick-up_pin_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_back-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_NA_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_016.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_align_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_attach_side-panel_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_attach_side-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_pick-up_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_017.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_NA_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_pick-up_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_NA_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_align_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_attach_side-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_insert_pin_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_pick-up_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_pick-up_table-top_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_attach_back-panel_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_insert_pin_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_align_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_align_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_NA_009.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_align_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_flip_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_NA_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_rotate_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_pick-up_pin_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_back-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_pick-up_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_NA_009.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_015.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0013_pick-up_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_pick-up_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_pick-up_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_attach_side-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_014.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_NA_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_spin_leg_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_attach_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_spin_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_insert_pin_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_NA_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_attach_back-panel_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_align_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_align_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_NA_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_flip_table-top_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_align_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_attach_side-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_pick-up_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_pick-up_table-top_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_pick-up_table-top_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_NA_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_pick-up_front-panel_009.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_side-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_NA_009.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_pick-up_pin_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_align_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_pick-up_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_back-panel_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_010.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_slide_bottom-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_align_side-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_align_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_align_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_attach_side-panel_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_011.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_NA_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_pick-up_pin_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_spin_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_back-panel_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_NA_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_insert_pin_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_align_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_attach_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_attach_back-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is tighten.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_tighten_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_NA_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_other_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_insert_pin_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_pick-up_front-panel_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_NA_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_pick-up_table-top_010.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_pick-up_table-top_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_attach_back-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_NA_010.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_align_side-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_NA_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_attach_back-panel_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_pick-up_table-top_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_side-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_leg_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_align_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_pick-up_pin_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_align_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_align_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_spin_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_NA_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_pick-up_pin_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is tighten.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_tighten_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_013.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_insert_pin_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_pick-up_leg_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_align_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_align_side-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_flip_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_pick-up_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_pick-up_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_012.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_insert_pin_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_back-panel_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_spin_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_align_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_align_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_align_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_pick-up_pin_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_leg_009.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_pick-up_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_pick-up_table-top_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_NA_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_align_side-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_align_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_pick-up_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_pick-up_front-panel_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_pick-up_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_attach_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is tighten.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_tighten_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_slide_bottom-panel_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_other_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_NA_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_NA_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_pick-up_bottom-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_NA_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_spin_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0013_pick-up_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_pick-up_bottom-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_pick-up_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_spin_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_pick-up_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_pick-up_bottom-panel_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_flip_table-top_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_NA_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_pick-up_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is tighten.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_tighten_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_spin_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_NA_009.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_pick-up_table-top_009.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_flip_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_pick-up_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_attach_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_spin_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is tighten.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_tighten_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is position.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_position_drawer_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_slide_bottom-panel_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_pick-up_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_NA_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_other_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_leg_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_NA_014.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_pick-up_bottom-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_pick-up_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_flip_table-top_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0013_pick-up_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_pick-up_bottom-panel_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_spin_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_009.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_pick-up_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_flip_table-top_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_leg_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_NA_010.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_NA_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_pick-up_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_spin_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_pick-up_back-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_pick-up_table-top_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_NA_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_flip_table-top_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_align_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_pick-up_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is tighten.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_tighten_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is position.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_position_drawer_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0013_attach_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_NA_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_NA_011.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_NA_011.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_NA_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_spin_leg_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_pick-up_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_attach_back-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_NA_018.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_NA_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_pick-up_side-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_align_side-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_spin_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_NA_010.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_pick-up_bottom-panel_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_NA_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_NA_010.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0013_flip_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_NA_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_other_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_slide_bottom-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_flip_table-top_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_pick-up_front-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_pick-up_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is tighten.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_tighten_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_align_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_align_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_pick-up_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_slide_bottom-panel_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is position.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_position_drawer_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0013_attach_shelf_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_NA_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_other_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_NA_012.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_NA_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_rotate_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_spin_leg_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_NA_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_NA_012.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_pick-up_shelf_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_align_side-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_spin_leg_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_NA_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_pick-up_side-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_pick-up_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_NA_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0047_NA_013.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0017_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_other_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0011_spin_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is position.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_position_drawer_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_pick-up_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_slide_bottom-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_pick-up_front-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is tighten.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_tighten_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is position.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_position_drawer_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_pick-up_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_align_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_spin_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_flip_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_pick-up_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_slide_bottom-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_attach_back-panel_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_spin_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_spin_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_front-panel_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_spin_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_spin_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_align_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_align_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_align_side-panel_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_align_side-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_lay-down_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_attach_side-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_align_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_NA_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_align_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is tighten.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_tighten_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_spin_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_align_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_attach_back-panel_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_shelf_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_NA_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_spin_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_front-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_NA_009.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_spin_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_shelf_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_pick-up_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_align_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_spin_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_slide_bottom-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_lay-down_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_NA_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_attach_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_pick-up_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_attach_side-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_attach_side-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_pick-up_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is position.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_position_drawer_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_align_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_NA_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_slide_bottom-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_NA_010.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is rotate.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_rotate_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_align_side-panel_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_align_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_shelf_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_front-panel_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_spin_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_spin_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_spin_leg_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_front-panel_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_attach_back-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_shelf_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_align_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_pick-up_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_insert_pin_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_align_side-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0025_attach_shelf_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_pick-up_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_NA_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_pick-up_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_attach_side-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_pick-up_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_NA_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_lay-down_leg_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_flip_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_NA_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_pick-up_leg_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_spin_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_shelf_010.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_shelf_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0019_pick-up_front-panel_007.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is flip.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_flip_table_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is attach.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0044_attach_back-panel_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is lay down.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0026_lay-down_shelf_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0032_align_leg_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is insert.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_insert_pin_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_align_side-panel_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0004_NA_001.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is align.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0036_align_leg_004.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is spin.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_spin_leg_005.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is pick up.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0007_pick-up_leg_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0009_NA_002.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0024_NA_008.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is NA.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0010_NA_006.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is slide.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0043_slide_bottom-panel_003.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the action verb performed in this IKEA assembly video?",
+        "role": "user"
+      },
+      {
+        "content": "The action verb is position.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "IKEA_video_clips/train/0037_position_drawer_001.mp4"
+    ]
+  }
+]

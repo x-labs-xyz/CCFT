@@ -1,5 +1,5 @@
-# CCFT
-This repository tracks the CCFT project's trajectory and maintains its code. 
+# Compositional Context Fine-tuning Vision-Language Model for Complex Assembly Action Understanding from Videos
+This repository hosts the code for the work 'Compositional Context Fine-tuning Vision-Language Model for Complex Assembly Action Understanding from Videos'.
 
 This project implements fine-tuning of the [Qwen2.5-VL](https://github.com/QwenLM/Qwen-VL) vision-language model using the [LLaMA Factory](https://github.com/hiyouga/LLaMA-Factory) framework. The implementation involves cloning both repositories and applying custom modifications to enable CCFT fine-tuning.
 
@@ -11,14 +11,17 @@ This project implements fine-tuning of the [Qwen2.5-VL](https://github.com/QwenL
 │   ├── data/               # Custom dataset
 │   ├── saves/              # The folder to store LoRA adapter checkpoints
 │   ├── models/             # The folder to store the merged models (base + adapters), ready for inference 
-│   ├── train_eval.sh       # The script to fine-tune models and call 'Qwen2.5-VL/inference_eval.py' to evaluation.
 │   └── ... 
 │
 ├── Qwen2.5-VL/             # Base model implementation
 │   ├── eval_results/       # The folder to store evaluation results
-│   ├── inference_eval.py   # The script to evaluate fine-tuned models (from 'LLaMA-Factory/models/') on the testing dataset
+│   ├── eval_*.py   # The scripts to evaluate fine-tuned models (from 'LLaMA-Factory/models/') on the testing dataset
 │   └── ...                 
 │
+├── scripts/        
+│   ├── train_eval_havid.sh  # The script to fine-tune models on HA-ViD-VQA datasets and evaluate the fine-tuned model.
+│   ├── train_eval_ikea.sh  # The script to fine-tune models on IKEA-ASM-VQA dataset and evaluate the fine-tuned model.
+│   
 └── README.md               # Project documentation 
 ```
 ## Environment Preparation
@@ -31,6 +34,7 @@ conda create --name llama-qw python=3.10 -y
 conda activate llama-qw
 pip install -e ".[torch,metrics]"
 ```
+
 ### Qwen2.5-VL environment
 ```bash
 cd Qwen2.5-VL
@@ -50,7 +54,9 @@ TBD. Where I can store the data.
 ## Fine-tuning and Evaluation
 We provide an end-to-end fine-tuning and evaluation script. The fine-tuned models will be stored in '/LLaMA-Factory/models' and the evaluation results will be stored in '/Qwen2.5-VL/eval_results'.
 
-Run ``` sh ./LLaMA-Factory/train_eval.sh ```
+For HA-ViD-VQA, run ``` sh ./scripts/train_eval_havid.sh --task {lh_v0, lh_v1, lh_v2, rh_v0, rh_v1, rh_v2}``` where lh/rh indicate left-hand/right-hand actions and v0/v1/v2 correspond to side-view/front-view/top-view perspectives.
+
+For IKEA-VQA, run ```sh ./scripts/train_eval_ikea.sh ```.
 
 ## Acknowledgments
 

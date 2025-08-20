@@ -5,7 +5,7 @@ conda activate llama-qw
 
   Action_verb_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/Qwen2.5-VL/Qwen2.5-VL-7B-Instruct 
+  model_name_or_path: ./Qwen2.5-VL/Qwen2.5-VL-7B-Instruct 
 
   ### method
   stage: sft 
@@ -82,13 +82,43 @@ conda activate llama-qw
     - layers.9.mlp.gate_proj
     - layers.9.mlp.up_proj
     - layers.9.mlp.down_proj
+    - layers.10.self_attn.q_proj
+    - layers.10.self_attn.k_proj
+    - layers.10.self_attn.v_proj
+    - layers.10.self_attn.o_proj
+    - layers.10.mlp.gate_proj
+    - layers.10.mlp.up_proj
+    - layers.10.mlp.down_proj
+    - layers.11.self_attn.q_proj
+    - layers.11.self_attn.k_proj
+    - layers.11.self_attn.v_proj
+    - layers.11.self_attn.o_proj
+    - layers.11.mlp.gate_proj
+    - layers.11.mlp.up_proj
+    - layers.11.mlp.down_proj
+    - layers.12.self_attn.q_proj
+    - layers.12.self_attn.k_proj
+    - layers.12.self_attn.v_proj
+    - layers.12.self_attn.o_proj
+    - layers.12.mlp.gate_proj
+    - layers.12.mlp.up_proj
+    - layers.12.mlp.down_proj
+    - layers.13.self_attn.q_proj
+    - layers.13.self_attn.k_proj
+    - layers.13.self_attn.v_proj
+    - layers.13.self_attn.o_proj
+    - layers.13.mlp.gate_proj
+    - layers.13.mlp.up_proj
+    - layers.13.mlp.down_proj
+
 
   # deepspeed: /workspace/LLaMA-Factory/configs/deepspeed/ds_z3_config.json  
   lora_rank: 256 
   lora_alpha: 256 
 
   ### dataset
-  dataset: CCFT_havid_sub_videos_crop_balanced_rh_v2_action_verb 
+  dataset_dir: ./LLaMA-Factory/data
+  dataset: IKEA-ASM-VQA_action_verb 
   template: qwen2_vl 
   cutoff_len: 10240 
   max_samples: 100000   
@@ -104,7 +134,7 @@ conda activate llama-qw
   video_maxlen: 128
 
   ### output
-  output_dir: saves/action_verb_rh_v2_1
+  output_dir: saves/IKEA-ASM-VQA_action_verb_1
   logging_steps: 1 
   #save_steps: 50 
   plot_loss: true 
@@ -114,7 +144,7 @@ conda activate llama-qw
   ### train
   per_device_train_batch_size: 1 
   gradient_accumulation_steps: 2 
-  learning_rate: 1.0e-4 
+  learning_rate: 5.0e-5 
   num_train_epochs: 1 
   lr_scheduler_type: cosine 
   warmup_ratio: 0.1 
@@ -132,13 +162,13 @@ conda activate llama-qw
 
   Merge_action_verb_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/Qwen2.5-VL/Qwen2.5-VL-7B-Instruct
-  adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_rh_v2_1  
+  model_name_or_path: ./Qwen2.5-VL/Qwen2.5-VL-7B-Instruct
+  adapter_name_or_path: ./LLaMA-Factory/saves/IKEA-ASM-VQA_action_verb_1  
   template: qwen2_vl
   finetuning_type: lora
 
   ### export
-  export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_rh_v2_1
+  export_dir: ./LLaMA-Factory/models/IKEA-ASM-VQA_action_verb_1
   export_size: 5
   export_device: cpu
   export_legacy_format: false
@@ -153,41 +183,13 @@ conda activate llama-qw
 
   Objects_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_rh_v2_1
+  model_name_or_path: ./LLaMA-Factory/models/IKEA-ASM-VQA_action_verb_1
 
   ### method
   stage: sft 
   do_train: true 
   finetuning_type: lora 
   lora_target:
-    - layers.10.self_attn.q_proj
-    - layers.10.self_attn.k_proj
-    - layers.10.self_attn.v_proj
-    - layers.10.self_attn.o_proj
-    - layers.10.mlp.gate_proj
-    - layers.10.mlp.up_proj
-    - layers.10.mlp.down_proj
-    - layers.11.self_attn.q_proj
-    - layers.11.self_attn.k_proj
-    - layers.11.self_attn.v_proj
-    - layers.11.self_attn.o_proj
-    - layers.11.mlp.gate_proj
-    - layers.11.mlp.up_proj
-    - layers.11.mlp.down_proj
-    - layers.12.self_attn.q_proj
-    - layers.12.self_attn.k_proj
-    - layers.12.self_attn.v_proj
-    - layers.12.self_attn.o_proj
-    - layers.12.mlp.gate_proj
-    - layers.12.mlp.up_proj
-    - layers.12.mlp.down_proj
-    - layers.13.self_attn.q_proj
-    - layers.13.self_attn.k_proj
-    - layers.13.self_attn.v_proj
-    - layers.13.self_attn.o_proj
-    - layers.13.mlp.gate_proj
-    - layers.13.mlp.up_proj
-    - layers.13.mlp.down_proj
     - layers.14.self_attn.q_proj
     - layers.14.self_attn.k_proj
     - layers.14.self_attn.v_proj
@@ -258,84 +260,6 @@ conda activate llama-qw
     - layers.23.mlp.gate_proj
     - layers.23.mlp.up_proj
     - layers.23.mlp.down_proj
-
-  # deepspeed: /workspace/LLaMA-Factory/configs/deepspeed/ds_z3_config.json  
-  lora_rank: 256 
-  lora_alpha: 256 
-
-
-  ### dataset
-  dataset: CCFT_havid_sub_videos_crop_balanced_rh_v2_objects 
-  template: qwen2_vl 
-  cutoff_len: 10240 
-  max_samples: 100000 
-  overwrite_cache: true 
-  preprocessing_num_workers: 16 
-
-  ### Processor Arguments
-  image_max_pixels: 589824  #768*768
-  image_min_pixels: 102400 #320*320
-  video_max_pixels: 102400 #360*360
-  video_min_pixels: 102400 #320*320
-  video_fps: 2
-  video_maxlen: 128
-
-  ### output
-  output_dir: saves/action_verb_objects_rh_v2_1
-  logging_steps: 1 
-  # save_steps: 50 
-  plot_loss: true 
-  # overwrite_output_dir: true 
-  #save_total_limit: 2
-
-  ### train
-  per_device_train_batch_size: 1 
-  gradient_accumulation_steps: 2 
-  learning_rate: 1.0e-4 
-  num_train_epochs: 1 
-  lr_scheduler_type: cosine 
-  warmup_ratio: 0.1 
-  bf16: true 
-  ddp_timeout: 180000000 
-  "
-  # Save config to temporary file
-  echo "$Objects_CONTENT" > temp_action_verb_objects_config.yaml
-  # Run your command
-  echo "Processing epoch 1 ..."
-  llamafactory-cli train temp_action_verb_objects_config.yaml  # Replace with your actual command
-  # Clean up
-  rm temp_action_verb_objects_config.yaml
-
-  Merge_objects_CONTENT="
-  ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_rh_v2_1
-  adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_objects_rh_v2_1
-  template: qwen2_vl
-  finetuning_type: lora
-
-  ### export
-  export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_rh_v2_1
-  export_size: 5
-  export_device: cpu
-  export_legacy_format: false
-  "
-  # Save config to temporary file
-  echo "$Merge_objects_CONTENT" > temp_merge_objects_config.yaml
-  # Run your command
-  echo "Merge objects lora adapter 1 ..."
-  llamafactory-cli export temp_merge_objects_config.yaml  # Replace with your actual command
-  # Clean up
-  rm temp_merge_objects_config.yaml
-
-  Tool_CONTENT="  
-  ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_rh_v2_1
-
-  ### method
-  stage: sft  
-  do_train: true 
-  finetuning_type: lora 
-  lora_target:
     - layers.24.self_attn.q_proj
     - layers.24.self_attn.k_proj
     - layers.24.self_attn.v_proj
@@ -369,8 +293,10 @@ conda activate llama-qw
   lora_rank: 256 
   lora_alpha: 256 
 
+
   ### dataset
-  dataset: CCFT_havid_sub_videos_crop_balanced_rh_v2_tool 
+  dataset_dir: ./LLaMA-Factory/data
+  dataset: IKEA-ASM-VQA_objects 
   template: qwen2_vl 
   cutoff_len: 10240 
   max_samples: 100000 
@@ -380,13 +306,13 @@ conda activate llama-qw
   ### Processor Arguments
   image_max_pixels: 589824  #768*768
   image_min_pixels: 102400 #320*320
-  video_max_pixels: 102400 #768*768
+  video_max_pixels: 102400 #360*360
   video_min_pixels: 102400 #320*320
   video_fps: 2
   video_maxlen: 128
 
-  ### output  
-  output_dir: saves/action_verb_objects_tool_rh_v2_1
+  ### output
+  output_dir: saves/IKEA-ASM-VQA_action_verb_objects_1
   logging_steps: 1 
   # save_steps: 50 
   plot_loss: true 
@@ -396,47 +322,46 @@ conda activate llama-qw
   ### train
   per_device_train_batch_size: 1 
   gradient_accumulation_steps: 2 
-  learning_rate: 1.0e-4   
+  learning_rate: 5.0e-5 
   num_train_epochs: 1 
   lr_scheduler_type: cosine 
   warmup_ratio: 0.1 
-  bf16: true  
+  bf16: true 
   ddp_timeout: 180000000 
   "
   # Save config to temporary file
-  echo "$Tool_CONTENT" > temp_action_verb_objects_tool_config.yaml
+  echo "$Objects_CONTENT" > temp_action_verb_objects_config.yaml
   # Run your command
-  echo "Processing epoch 1..."
-  llamafactory-cli train temp_action_verb_objects_tool_config.yaml  # Replace with your actual command
+  echo "Processing epoch 1 ..."
+  llamafactory-cli train temp_action_verb_objects_config.yaml  # Replace with your actual command
   # Clean up
-  rm temp_action_verb_objects_tool_config.yaml
+  rm temp_action_verb_objects_config.yaml
 
-  Merge_tool_CONTENT="
+  Merge_objects_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_rh_v2_1
-  adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_objects_tool_rh_v2_1
+  model_name_or_path: ./LLaMA-Factory/models/IKEA-ASM-VQA_action_verb_1
+  adapter_name_or_path: ./LLaMA-Factory/saves/IKEA-ASM-VQA_action_verb_objects_1
   template: qwen2_vl
   finetuning_type: lora
 
   ### export
-  export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_tool_rh_v2_1
+  export_dir: ./LLaMA-Factory/models/IKEA-ASM-VQA_action_verb_objects_1
   export_size: 5
   export_device: cpu
   export_legacy_format: false
   "
   # Save config to temporary file
-  echo "$Merge_tool_CONTENT" > temp_merge_tool_config.yaml
+  echo "$Merge_objects_CONTENT" > temp_merge_objects_config.yaml
   # Run your command
-  echo "Merge tool lora adapter 1 ..."
-  llamafactory-cli export temp_merge_tool_config.yaml  # Replace with your actual command
+  echo "Merge objects lora adapter 1 ..."
+  llamafactory-cli export temp_merge_objects_config.yaml  # Replace with your actual command
   # Clean up
-  rm temp_merge_tool_config.yaml
+  rm temp_merge_objects_config.yaml
 
   conda deactivate
   conda activate Qwen25VL
-  python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_rh_v2.py --task action_verb_objects_tool_rh_v2 --epoch "1"
-  python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_rh_v2.py --task action_verb_objects_rh_v2 --epoch "1"
-  python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_rh_v2.py --task action_verb_rh_v2 --epoch "1"
+  python ./Qwen2.5-VL/eval_ikea.py --task IKEA-ASM-VQA_action_verb_objects_${task} --epoch "1"
+  python ./Qwen2.5-VL/eval_ikea.py --task IKEA-ASM-VQA_action_verb_${task} --epoch "1"
   conda deactivate
 
 for epoch in $(seq 2 40); do
@@ -446,7 +371,7 @@ for epoch in $(seq 2 40); do
   # Create temporary config file
   Action_verb_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_tool_rh_v2_${prev_epoch}
+  model_name_or_path: ./LLaMA-Factory/models/IKEA-ASM-VQA_action_verb_objects_${prev_epoch}
 
   ### method
   stage: sft 
@@ -523,89 +448,6 @@ for epoch in $(seq 2 40); do
     - layers.9.mlp.gate_proj
     - layers.9.mlp.up_proj
     - layers.9.mlp.down_proj
-
-  # deepspeed: /workspace/LLaMA-Factory/configs/deepspeed/ds_z3_config.json  
-  lora_rank: 256 
-  lora_alpha: 256 
-
-  ### dataset
-  dataset: CCFT_havid_sub_videos_crop_balanced_rh_v2_action_verb 
-  template: qwen2_vl 
-  cutoff_len: 10240 
-  max_samples: 100000 
-  overwrite_cache: true 
-  preprocessing_num_workers: 16 
-
-  ### Processor Arguments
-  image_max_pixels: 589824  #768*768
-  image_min_pixels: 102400 #320*320
-  video_max_pixels: 102400 #360*360
-  video_min_pixels: 102400 #320*320
-  video_fps: 2
-  video_maxlen: 128
-
-  ### output
-  output_dir: saves/action_verb_rh_v2_${epoch}
-  logging_steps: 1  
-  # save_steps: 50 
-  plot_loss: true 
-  #overwrite_output_dir: true 
-  #save_total_limit: 2
-
-  ### train
-  per_device_train_batch_size: 1 
-  gradient_accumulation_steps: 2 
-  learning_rate: 1.0e-4 
-  num_train_epochs: 1
-  lr_scheduler_type: cosine 
-  warmup_ratio: 0.1 
-  bf16: true  
-  ddp_timeout: 180000000 
-  "
-
-  # Save config to temporary file
-  echo "$Action_verb_CONTENT" > temp_action_verb_config.yaml
-
-  # Run your command
-  echo "Processing epoch ${epoch}..."
-  llamafactory-cli train temp_action_verb_config.yaml  # Replace with your actual command
-
-  # Clean up
-  rm temp_action_verb_config.yaml
-
-  Merge_action_verb_CONTENT="
-  ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_tool_rh_v2_${prev_epoch}
-  adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_rh_v2_${epoch}
-  template: qwen2_vl
-  finetuning_type: lora
-
-  ### export
-  export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_rh_v2_${epoch}
-  export_size: 5
-  export_device: cpu
-  export_legacy_format: false
-  "
-
-  # Save config to temporary file
-  echo "$Merge_action_verb_CONTENT" > temp_merge_action_verb_config.yaml
-
-  # Run your command
-  echo "Merge action verb lora adapter ${epoch}..."
-  llamafactory-cli export temp_merge_action_verb_config.yaml  # Replace with your actual command
-
-  # Clean up
-  rm temp_merge_action_verb_config.yaml
-
-  Objects_CONTENT="
-  ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_rh_v2_${epoch}
-
-  ### method
-  stage: sft 
-  do_train: true 
-  finetuning_type: lora 
-  lora_target:
     - layers.10.self_attn.q_proj
     - layers.10.self_attn.k_proj
     - layers.10.self_attn.v_proj
@@ -634,6 +476,90 @@ for epoch in $(seq 2 40); do
     - layers.13.mlp.gate_proj
     - layers.13.mlp.up_proj
     - layers.13.mlp.down_proj
+
+  # deepspeed: /workspace/LLaMA-Factory/configs/deepspeed/ds_z3_config.json  
+  lora_rank: 256 
+  lora_alpha: 256 
+
+  ### dataset
+  dataset_dir: ./LLaMA-Factory/data
+  dataset: IKEA-ASM-VQA_action_verb 
+  template: qwen2_vl 
+  cutoff_len: 10240 
+  max_samples: 100000 
+  overwrite_cache: true 
+  preprocessing_num_workers: 16 
+
+  ### Processor Arguments
+  image_max_pixels: 589824  #768*768
+  image_min_pixels: 102400 #320*320
+  video_max_pixels: 102400 #360*360
+  video_min_pixels: 102400 #320*320
+  video_fps: 2
+  video_maxlen: 128
+
+  ### output
+  output_dir: saves/IKEA-ASM-VQA_action_verb_${epoch}
+  logging_steps: 1  
+  # save_steps: 50 
+  plot_loss: true 
+  #overwrite_output_dir: true 
+  #save_total_limit: 2
+
+  ### train
+  per_device_train_batch_size: 1 
+  gradient_accumulation_steps: 2 
+  learning_rate: 5.0e-5 
+  num_train_epochs: 1
+  lr_scheduler_type: cosine 
+  warmup_ratio: 0.1 
+  bf16: true  
+  ddp_timeout: 180000000 
+  "
+
+  # Save config to temporary file
+  echo "$Action_verb_CONTENT" > temp_action_verb_config.yaml
+
+  # Run your command
+  echo "Processing epoch ${epoch}..."
+  llamafactory-cli train temp_action_verb_config.yaml  # Replace with your actual command
+
+  # Clean up
+  rm temp_action_verb_config.yaml
+
+  Merge_action_verb_CONTENT="
+  ### model
+  model_name_or_path: ./LLaMA-Factory/models/IKEA-ASM-VQA_action_verb_objects_${prev_epoch}
+  adapter_name_or_path: ./LLaMA-Factory/saves/IKEA-ASM-VQA_action_verb_${epoch}
+  template: qwen2_vl
+  finetuning_type: lora
+
+  ### export
+  export_dir: ./LLaMA-Factory/models/IKEA-ASM-VQA_action_verb_${epoch}
+  export_size: 5
+  export_device: cpu
+  export_legacy_format: false
+  "
+
+  # Save config to temporary file
+  echo "$Merge_action_verb_CONTENT" > temp_merge_action_verb_config.yaml
+
+  # Run your command
+  echo "Merge action verb lora adapter ${epoch}..."
+  llamafactory-cli export temp_merge_action_verb_config.yaml  # Replace with your actual command
+
+  # Clean up
+  rm temp_merge_action_verb_config.yaml
+
+  Objects_CONTENT="
+  ### model
+  model_name_or_path: ./LLaMA-Factory/models/IKEA-ASM-VQA_action_verb_${epoch}
+
+  ### method
+  stage: sft 
+  do_train: true 
+  finetuning_type: lora 
+  lora_target:
     - layers.14.self_attn.q_proj
     - layers.14.self_attn.k_proj
     - layers.14.self_attn.v_proj
@@ -704,88 +630,6 @@ for epoch in $(seq 2 40); do
     - layers.23.mlp.gate_proj
     - layers.23.mlp.up_proj
     - layers.23.mlp.down_proj
-
-  # deepspeed: /workspace/LLaMA-Factory/configs/deepspeed/ds_z3_config.json  
-  lora_rank: 256 
-  lora_alpha: 256 
-
-  ### dataset
-  dataset: CCFT_havid_sub_videos_crop_balanced_rh_v2_objects 
-  template: qwen2_vl 
-  cutoff_len: 10240 
-  max_samples: 100000 
-  overwrite_cache: true 
-  preprocessing_num_workers: 16 
-
-  ### Processor Arguments
-  image_max_pixels: 589824  #768*768
-  image_min_pixels: 102400 #320*320
-  video_max_pixels: 102400 #360*360
-  video_min_pixels: 102400 #320*320
-  video_fps: 2
-  video_maxlen: 128
-
-  ### output
-  output_dir: saves/action_verb_objects_rh_v2_${epoch}
-  logging_steps: 1 
-  # save_steps: 50 
-  plot_loss: true 
-  # overwrite_output_dir: true 
-  #save_total_limit: 2 
-
-  ### train
-  per_device_train_batch_size: 1 
-  gradient_accumulation_steps: 2 
-  learning_rate: 1.0e-4 
-  num_train_epochs: 1 
-  lr_scheduler_type: cosine 
-  warmup_ratio: 0.1 
-  bf16: true 
-  ddp_timeout: 180000000 
-  "
-  # Save config to temporary file
-  echo "$Objects_CONTENT" > temp_action_verb_objects_config.yaml
-
-  # Run your command
-  echo "Processing epoch ${epoch}..."
-  llamafactory-cli train temp_action_verb_objects_config.yaml  # Replace with your actual command
-
-  # Clean up
-  rm temp_action_verb_objects_config.yaml
-
-  Merge_objects_CONTENT="
-  ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_rh_v2_${epoch}
-  adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_objects_rh_v2_${epoch}
-  template: qwen2_vl
-  finetuning_type: lora
-
-  ### export
-  export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_rh_v2_${epoch}
-  export_size: 5
-  export_device: cpu
-  export_legacy_format: false
-  "
-
-  # Save config to temporary file
-  echo "$Merge_objects_CONTENT" > temp_merge_objects_config.yaml
-
-  # Run your command
-  echo "Merge objects lora adapter ${epoch}..."
-  llamafactory-cli export temp_merge_objects_config.yaml  # Replace with your actual command
-
-  # Clean up
-  rm temp_merge_objects_config.yaml
-
-  Tool_CONTENT="
-  ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_rh_v2_${epoch}
-
-  ### method
-  stage: sft 
-  do_train: true 
-  finetuning_type: lora 
-  lora_target:
     - layers.24.self_attn.q_proj
     - layers.24.self_attn.k_proj
     - layers.24.self_attn.v_proj
@@ -820,7 +664,8 @@ for epoch in $(seq 2 40); do
   lora_alpha: 256 
 
   ### dataset
-  dataset: CCFT_havid_sub_videos_crop_balanced_rh_v2_tool 
+  dataset_dir: ./LLaMA-Factory/data
+  dataset: IKEA-ASM-VQA_objects 
   template: qwen2_vl 
   cutoff_len: 10240 
   max_samples: 100000 
@@ -830,69 +675,68 @@ for epoch in $(seq 2 40); do
   ### Processor Arguments
   image_max_pixels: 589824  #768*768
   image_min_pixels: 102400 #320*320
-  video_max_pixels: 102400 #768*768
+  video_max_pixels: 102400 #360*360
   video_min_pixels: 102400 #320*320
   video_fps: 2
   video_maxlen: 128
 
   ### output
-  output_dir: saves/action_verb_objects_tool_rh_v2_${epoch}
+  output_dir: saves/IKEA-ASM-VQA_action_verb_objects_${epoch}
   logging_steps: 1 
   # save_steps: 50 
   plot_loss: true 
   # overwrite_output_dir: true 
-  #save_total_limit: 2
+  #save_total_limit: 2 
 
   ### train
   per_device_train_batch_size: 1 
   gradient_accumulation_steps: 2 
-  learning_rate: 1.0e-4 
-  num_train_epochs: 1
-  lr_scheduler_type: cosine
+  learning_rate: 5.0e-5 
+  num_train_epochs: 1 
+  lr_scheduler_type: cosine 
   warmup_ratio: 0.1 
   bf16: true 
   ddp_timeout: 180000000 
   "
   # Save config to temporary file
-  echo "$Tool_CONTENT" > temp_action_verb_objects_tool_config.yaml
+  echo "$Objects_CONTENT" > temp_action_verb_objects_config.yaml
 
   # Run your command
   echo "Processing epoch ${epoch}..."
-  llamafactory-cli train temp_action_verb_objects_tool_config.yaml  # Replace with your actual command
+  llamafactory-cli train temp_action_verb_objects_config.yaml  # Replace with your actual command
 
   # Clean up
-  rm temp_action_verb_objects_tool_config.yaml
+  rm temp_action_verb_objects_config.yaml
 
-  Merge_tool_CONTENT="
+  Merge_objects_CONTENT="
   ### model
-  model_name_or_path: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_rh_v2_${epoch}
-  adapter_name_or_path: /home/hao/CCFT/LLaMA-Factory/saves/action_verb_objects_tool_rh_v2_${epoch}
+  model_name_or_path: ./LLaMA-Factory/models/IKEA-ASM-VQA_action_verb_${epoch}
+  adapter_name_or_path: ./LLaMA-Factory/saves/IKEA-ASM-VQA_action_verb_objects_${epoch}
   template: qwen2_vl
   finetuning_type: lora
 
   ### export
-  export_dir: /home/hao/CCFT/LLaMA-Factory/models/action_verb_objects_tool_rh_v2_${epoch}
+  export_dir: ./LLaMA-Factory/models/IKEA-ASM-VQA_action_verb_objects_${epoch}
   export_size: 5
   export_device: cpu
   export_legacy_format: false
   "
 
   # Save config to temporary file
-  echo "$Merge_tool_CONTENT" > temp_merge_tool_config.yaml
+  echo "$Merge_objects_CONTENT" > temp_merge_objects_config.yaml
 
   # Run your command
-  echo "Merge tool lora adapter ${epoch}..."
-  llamafactory-cli export temp_merge_tool_config.yaml  # Replace with your actual command
+  echo "Merge objects lora adapter ${epoch}..."
+  llamafactory-cli export temp_merge_objects_config.yaml  # Replace with your actual command
 
   # Clean up
-  rm temp_merge_tool_config.yaml
+  rm temp_merge_objects_config.yaml
 
   conda deactivate
 
   conda activate Qwen25VL
-  python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_rh_v2.py --task action_verb_objects_tool_rh_v2 --epoch ${epoch}
-  python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_rh_v2.py --task action_verb_objects_rh_v2 --epoch ${epoch}
-  python /home/hao/CCFT/Qwen2.5-VL/eval_alternate_single_rh_v2.py --task action_verb_rh_v2 --epoch ${epoch}
+  python ./Qwen2.5-VL/eval_ikea.py --task IKEA-ASM-VQA_action_verb_objects --epoch ${epoch}
+  python ./Qwen2.5-VL/eval_ikea.py --task IKEA-ASM-VQA_action_verb --epoch ${epoch}
   conda deactivate
 
 done

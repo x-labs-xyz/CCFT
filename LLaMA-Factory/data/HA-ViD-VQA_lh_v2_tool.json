@@ -1,0 +1,6662 @@
+[
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A17I23S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A06I01S2_sntn5_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A05I01S2_iglft_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A12I24S2_sntsb_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A10I24S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A12I24S2_isbn3_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A28I31S2_pgwbx_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A06I01S2_iibn2_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A12I22S2_rhq_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A10I25S2_null_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_iibn2_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A10I25S2_iplft_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A29I31S2_sshc2dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_sntsbwn_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_sshc1dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A34I31S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_null_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A06I01S2_null_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_sntft_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_pcbbx_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A10I25S2_pgwbx_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A29I31S2_ickcb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A23I26S2_sshc1dh_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A12I22S2_sspn4dp_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_iirn1_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A17I23S2_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A30I31S2_isbn3_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_sshc3_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_sshc1dh_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is shaft wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_sftg2ws_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A23I26S2_pckbx_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_sshc4_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_sshc2dh_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_iccck_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A06I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_scccb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A34I31S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A29I31S2_sshc3dh_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A12I22S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A06I01S2_sspn4_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A10I25S2_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_scccb_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A10I24S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A06I01S2_sntsb_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A28I31S2_ipsft_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_rgw_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A17I23S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A06I01S2_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A06I01S2_isbn3_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A04I01S2_pgwbx_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A17I23S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_iglft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_null_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A10I24S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_ibacb_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A04I01S2_igsft_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A10I25S2_sntftwn_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_isbn3_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A10I25S2_ipsft_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_igsft_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A06I01S2_sntsb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A06I01S2_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A12I24S2_sntn5wn_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A34I31S2_iusn6_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A06I01S2_iibn2_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_sshc2_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_sntftwn_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A05I01S2_sntft_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_iglft_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A10I25S2_sspg3_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A17I23S2_sshc4dh_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_sshc3dh_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A34I31S2_null_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A06I01S2_sspn4dp_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A17I23S2_sshc3dh_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_pckbx_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_null_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_sshc4dh_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_pckbx_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A05I01S2_sntft_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A06I01S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_pckbx_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_ickcb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A34I31S2_rhq_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A06I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_sshc1_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_ibacb_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_pckbx_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A05I01S2_sftg2_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_ickcb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A34I31S2_isbn3_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A10I25S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_sntftwn_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is shaft wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A10I25S2_sftg1ws_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_ickcb_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_iccck_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A06I01S2_rhq_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A34I31S2_rhw_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_sntsb_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_sshc4dh_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_null_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_scccb_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A12I25S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_sshc1_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A10I24S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A17I23S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_sshc2dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A30I31S2_sspn4_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is shaft wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_sftg2ws_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A04I01S2_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_sshc2_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_sshc3dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A04I01S2_sspg3dp_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_pckbx_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A06I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_ibscb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A12I25S2_iirn1_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_iirn1_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A12I25S2_sspn4dp_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A23I26S2_ickcb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A23I26S2_scccb_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A12I24S2_null_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_iplft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_pgwbx_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A28I31S2_sspg3dp_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_igsft_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A34I31S2_sntn5wn_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_pckbx_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A23I26S2_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A17I23S2_sshc1dh_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A04I01S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_sspn4dp_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_ipsft_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_pckbx_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_sshc3dp_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A12I24S2_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is shaft wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_sftg2ws_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_sshc2dh_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A29I31S2_sshc4dh_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A12I24S2_iusn6_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_null_21.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A06I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A05I01S2_sftg1_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_ibscb_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A05I01S2_sspg3dp_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is shaft wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_sftg1ws_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_sshc1dh_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A04I01S2_iglft_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A30I31S2_sntsb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_iglft_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A23I26S2_sshc4dh_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_sshc4_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_sshc3_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_sntftwn_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A23I26S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_sshc2dp_21.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_null_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A34I31S2_iibn2_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_iglft_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A06I01S2_sntn5wn_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A06I01S2_null_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A04I01S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A05I01S2_sspg3dp_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A12I22S2_iibn2_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A30I31S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A12I24S2_iibn2_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A34I31S2_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_igsft_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_sftg1_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_scccb_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A05I01S2_sntftwn_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A30I31S2_sntn5_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A05I01S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_null_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A06I01S2_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A06I01S2_iusn6_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A10I25S2_null_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_null_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A06I01S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A06I01S2_sspn4dp_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_sshc1_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A04I01S2_sntft_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is shaft wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A10I25S2_sftg2ws_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A12I25S2_sntn5wn_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A06I01S2_iirn1_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_sshc2_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A10I24S2_sntftwn_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A29I31S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A06I01S2_iirn1_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A30I31S2_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A12I25S2_sntsb_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_sshc2dh_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_sshc1_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A05I01S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_ishc2_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_null_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A06I01S2_sntsbwn_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_null_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_rhw_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_null_24.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_sshc3dh_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A04I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A23I26S2_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_pckbx_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A10I25S2_iglft_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_scccb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A05I01S2_iplft_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A17I23S2_pckbx_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_sshc4_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A23I26S2_null_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A04I01S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_sspg3dp_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_sshc4dh_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A06I01S2_iusn6_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_null_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_null_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_sntftwn_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A05I01S2_ipsft_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A06I01S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A04I01S2_ipsft_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A29I31S2_pcbbx_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A05I01S2_pgwbx_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A06I01S2_sntsbwn_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A29I31S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A04I01S2_sftg2_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_sshc4dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_sntn5wn_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A06I01S2_isbn3_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A10I24S2_sntftwn_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A04I01S2_sntft_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A17I23S2_lck_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A29I31S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A34I31S2_sntsb_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_rgw_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A04I01S2_ipsft_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A23I26S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_rhd_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A06I01S2_iirn1_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A29I31S2_sshc1dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_sspg3dp_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A04I01S2_sftg2_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_ibscb_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A05I01S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A05I01S2_igsft_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_ickcb_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_null_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_sntftwn_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_sshc1dh_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_iibn2_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_ibacb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_null_22.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_pckbx_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_sshc2dh_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_ishc4_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A30I31S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_sshc3_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_pgwbx_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_ickcb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is shaft wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_sftg2ws_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A29I31S2_pckbx_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A23I26S2_sshc3dh_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_sshc3dh_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A10I25S2_igsft_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_ickcb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_ipsft_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A23I26S2_null_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A30I31S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_sntftwn_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A28I31S2_sftg2_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_scccb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_ibscb_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_iplft_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_null_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A04I01S2_sntftwn_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A04I01S2_sspg3dp_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_ickcb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_sshc3dh_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_sftg1_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A05I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_ickcb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_null_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A10I24S2_pgwbx_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_null_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_iplft_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A06I01S2_sntsb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A12I24S2_null_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_sshc2_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_ishc1_16.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A12I25S2_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A12I22S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A28I31S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_pgwbx_21.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A28I31S2_igsft_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A23I26S2_pckbx_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A06I01S2_iibn2_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_rhq_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A12I24S2_iirn1_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A04I01S2_null_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_ickcb_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_isbn3_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A05I01S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_iusn6_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A12I25S2_null_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_sshc3_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A06I01S2_null_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A23I26S2_sshc2dh_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_null_18.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A11I24S2_ibacb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A10I24S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_lck_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_ipsft_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A12I25S2_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_null_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A12I24S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_sspg3dp_23.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_sspn4dp_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_ibacb_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A04I01S2_iplft_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_ickcb_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A05I01S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_sshc4dh_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A34I31S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A04I01S2_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A06I01S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is shaft wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_sftg1ws_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_sshc4dp_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A06I01S2_sspn4dp_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A12I22S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A12I22S2_sntn5wn_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_sntft_19.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A29I31S2_ibscb_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A04I01S2_sshc1dp_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A10I24S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_sshc3dh_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A12I25S2_iibn2_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A12I25S2_iusn6_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A12I21S2_llb_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_lck_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A28I31S2_sntft_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A29I31S2_sshc1_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A34I31S2_iirn1_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A12I25S2_isbn3_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A29I31S2_sshc1dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_ipsft_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A12I25S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A16I23S2_iplft_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_null_21.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A06I01S2_sntn5wn_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A12I24S2_null_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is shaft wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A10I24S2_sftg2ws_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A12I22S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A04I01S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_sshc4dh_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A17I23S2_sshc2dh_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A28I31S2_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_ibscb_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A05I01S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A11I22S2_sshc1dh_17.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A04I01S2_pgwbx_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A12I24S2_sspn4dp_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_null_20.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A04I01S2_iplft_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A17I23S2_null_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A30I31S2_iirn1_8.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_sntn5wn_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A28I31S2_iplft_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S21A10I21S2_ipsft_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is hex screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_sshc2dh_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A10I25S2_null_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_iplft_15.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_llb_14.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A05I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_ispgw_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S23A05I01S2_null_2.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A10I24S2_sspg3dp_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A05I01S2_null_10.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_sspg3dp_3.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A22I26S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A29I31S2_sshc3_11.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A28I31S2_null_4.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A04I01S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A10I22S2_null_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A12I22S2_null_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A12I24S2_null_7.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A05I01S2_sshc4_13.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A29I31S2_ibscb_5.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A06I01S2_sspn4_6.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S13A04I01S2_scccb_9.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A24I26S2_iusn6_1.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is null.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S28A12I25S2_null_0.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is Phillips screwdriver.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S25A34I31S2_sspn4dp_12.mp4"
+    ]
+  },
+  {
+    "messages": [
+      {
+        "content": "<video>What is the tool that the worker used in the video?",
+        "role": "user"
+      },
+      {
+        "content": "The tool is nut wrench.",
+        "role": "assistant"
+      }
+    ],
+    "videos": [
+      "HA-ViD-VQA/lh_v2/train/S16A12I22S2_sntsbwn_5.mp4"
+    ]
+  }
+]
