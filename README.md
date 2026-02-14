@@ -84,4 +84,13 @@ This project stands on the shoulders of two significant open-source projects:
 We acknowledge the invaluable contributions of both teams to the open-source AI community.
 
 ## Citation
-TBD
+If you find this work useful, please consider citing:
+
+```bibtex
+@inproceedings{zheng2025ccft,
+  author    = {Hao Zheng and Jinyi Huang and Tiantian Zheng and Xun Xu and Tuka Alhanai},
+  title     = {Compositional Context Fine-Tuning Vision-Language Model for Complex Assembly Action Understanding from Videos},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+  year      = {2026}
+}
+```
