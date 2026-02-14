@@ -88,7 +88,7 @@ If you find this work useful, please consider citing:
 
 ```bibtex
 @inproceedings{zheng2025ccft,
-  author    = {Hao Zheng and Jinyi Huang and Tiantian Zheng and Xun Xu and Tuka Alhanai},
+  author    = {Hao Zheng, Jinyi Huang, Tiantian Zheng, Xun Xu, Tuka Alhanai},
   title     = {Compositional Context Fine-Tuning Vision-Language Model for Complex Assembly Action Understanding from Videos},
   booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
   year      = {2026}
